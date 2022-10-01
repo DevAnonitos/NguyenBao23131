@@ -3,10 +3,8 @@
 
 * 🔭 I’m currently working on fullstack developer.
 * 🌱 I’m currently learning HTML, CSS and Javascript.
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
+* 🤔 I’m studying at Open university.
 
-> Asia
->> VietNam
->>> HoChiMinh city
+
+> This life, forever, is still only about the feelings that people have for each other.
+
