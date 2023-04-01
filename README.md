@@ -1,7 +1,5 @@
 # Hi there 👋, I'm NguyenBao!
 
-[![Profile Picture](https://avatars.githubusercontent.com/u/12345678?s=200&v=4)](https://github.com/janedoe)
-
 I'm a full-stack developer with a passion for design and user experience. I enjoy working on web applications and creating beautiful, functional interfaces.
 
 ## Skills
@@ -20,11 +18,10 @@ I'm a full-stack developer with a passion for design and user experience. I enjo
 
 ## Accomplishments
 - Study in HoChiMinh Open University and Major is Computer Science
-- Created a website that received over 10,000 views in its first month
 - Contributed to several open-source projects, including React and Express
 - Presented a talk on React at a local developer conference
 
 ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/janedoe/)
-- [Twitter](https://twitter.com/janedoe/)
-- [Personal Website](https://janedoe.com/)
+- [FaceBook](https://www.facebook.com/baonguyenno1412/)
+- [Twitter](https://twitter.com/BaoNo1144)
+- [Personal Website](https://myportfoliodev.vercel.app/)
