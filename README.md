@@ -17,6 +17,10 @@ I'm a full-stack developer🌐, Mobile developer📱 and AI Engineer🤖 with a 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/NguyenBao23131/count.svg" />
+</p>
 
 ## Projects
 - [React To-Do App](https://github.com/janedoe/react-todo-app)
