@@ -20,7 +20,7 @@ I'm a full-stack developer🌐, Mobile developer📱 and AI Engineer🤖 with a 
 
 <p align="center" >
 <a href="https://github.com/NguyenBao23131/NguyenBao23131#readme"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-dong-dep-doc-dao_054957296.gif"/>
   </a>
 
 </p>
