@@ -18,13 +18,6 @@ I'm a full-stack developer🌐, Mobile developer📱 and AI Engineer🤖 with a 
 
 <br>
 
-<p align="center" >
-<a href="https://github.com/NguyenBao23131/NguyenBao23131#readme"> 
-    <img  src="https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-dong-dep-doc-dao_054957296.gif"/>
-  </a>
-
-</p>
-
 ## Projects
 - [React To-Do App](https://github.com/janedoe/react-todo-app)
 - [Portfolio Website](https://github.com/janedoe/portfolio-website)
