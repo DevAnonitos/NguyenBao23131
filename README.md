@@ -19,7 +19,7 @@ I'm a full-stack developer🌐, Mobile developer📱 and AI Engineer🤖 with a 
 <br>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/NguyenBao23131/count.svg" />
+  <img src="https://profile-counter.glitch.me/NguyenBao23131/count.svg" alt="CountUser" />
 </p>
 
 ## Let's Connect
